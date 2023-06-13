@@ -1,0 +1,15 @@
+# Persistence settings
+persistence:
+  # The data source to use for translation api
+  dataSource: default
+
+# Translation settings
+translation:
+  # Language settings
+  language:
+    # Default language to use for new players
+    default: 'en_US'
+
+    # Enable to detect the client locale
+    # Default language to use for new players determined by locale detected
+    detect: true
