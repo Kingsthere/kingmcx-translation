@@ -7,7 +7,7 @@ plugins {
 }
 
 group = "net.kingmc"
-version = "0.0.93"
+version = "0.1.0"
 
 repositories {
     mavenLocal()
